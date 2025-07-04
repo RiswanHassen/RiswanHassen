@@ -1,52 +1,56 @@
 # 👋 Hey, I'm Riswan Hassen
 
-**Offensive Security | Red Teaming | Cybersecurity Automation**  
-Current mission: Turning weird ideas into working exploits & useful tools.
+**Red Teaming • Offensive Security • AI Engineering**  
+_currently: building autonomous systems that hack, help or heckle._
 
 ---
 
 ## 🧠 About Me
 
-I'm a passionate security professional focused on **Offensive Security**, **Red Teaming**, and **Operational Technology (OT)**.  
-My background blends **hands-on lab work**, **creative scripting**, and **automation-first thinking**.
+Security Professional & Creative Engineer working at the intersection of **Offensive Security** and **AI Engineering**.  
+I design and prototype **autonomous agents**, **CTF-ready tools**, and **satirical systems** with real-world impact.
 
-- 🧪 OSINT | PrivEsc | AD Exploitation | Post-Exploitation
-- 🛠️ I build tools that I wish existed
-- 🧑‍💻 Always learning, always breaking
+- 🧠 Red Teaming | AI Toolchains | OSINT | PrivEsc | Post-Exploitation
+- ⚙️ From bash to backend – if it saves time or breaks rules, I’ll build it
+- 🧪 Always testing, always iterating, always weird
 
 ---
 
-## 🔧 Current Projects
+## 🚧 Selected Projects
 
 ### 🐍 `Advanced Reverse Honeypot`
-> AI-assisted fake-target environment with stealth recon, fake payloads, persistence logic and automated reporting.  
-A CTF-ready toolkit to confuse, collect & control.
+> AI-enhanced deception lab with stealth recon, fake artifacts & autonomous reporting.  
+A toolkit to confuse attackers, collect telemetry, and test defenses.
 
-### 🧠 `WOERK`
-> Resume & job automation powered by LLMs and local file parsing.  
-Scrapes folders, builds structured profiles & finds jobs – just two clicks needed.
+### 🤖 `WOERK`
+> Local-first LLM-powered job automation.  
+Reads your files, builds your profile, applies for jobs – in zero to two clicks.
 
-### 🌐 `Operation HydraPost` *(WIP)*
-> Satirical LinkedIn trollbot system.  
-Runs autonomous, ironic micro-campaigns using exotic API logic and mock personas.
+### 🐙 `Operation HydraPost`
+> Fully autonomous, ironic LinkedIn troll system.  
+Campaign logic, mock personas, satire-as-a-service.
 
----
-
-## 📚 Certifications & Labs
-
-- ✅ Google Cybersecurity Professional
-- 🔐 Cisco Certified Ethical Hacker (in progress)
-- 🧱 Hack The Box (Red Team path – 60%+)
-- 🎯 Preparing for Synack Red Team application
+### 🧪 `LUZI`
+> A dirty-fast port scanner hunting exotic protocols and quick wins.  
+Focus: speed, stealth, simplicity.
 
 ---
 
-## 🤝 Let's Connect
+## 📜 Certs & Progress
 
-- 💬 Looking for: Red Team peers, CTF alliances, weird collaboration ideas
-- 📫 Mail me: riswanhassen@gmail.com
-- 🧠 Always happy to exchange tools, tactics & terrible puns
+- ✅ **Google Cybersecurity Professional**
+- 🧠 **Cisco CEH (CTF pending)**
+- 🔍 **HTB Red Team Path (60 %+)**
+- 🎯 **Preparing for Synack Red Team**
 
 ---
 
-> ⚡ *Fun fact: Sometimes I automate tasks just to see if I can break them later.*
+## 🤝 Let’s Connect
+
+- 🤖 Interested in: Red Team collabs, AI agent experiments, satirical toolchains
+- 📫 Contact: `riswanhassen@gmail.com`
+- 🛠️ Happy to trade tactics, tools, or terrible ideas
+
+---
+
+> ⚡ *I don’t just automate – I escalate. Then I build a bot to do it again.*
