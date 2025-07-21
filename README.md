@@ -1,56 +1,43 @@
 # 👋 Hey, I'm Riswan Hassen
 
-**Red Teaming • Offensive Security • AI Engineering**  
-_currently: building autonomous systems that hack, help or heckle._
+**Offensive Security Engineering • AI Automation • OSINT Tooling**  
+_building systems that hack, help, or hilariously misbehave._
 
 ---
 
 ## 🧠 About Me
 
-Security Professional & Creative Engineer working at the intersection of **Offensive Security** and **AI Engineering**.  
-I design and prototype **autonomous agents**, **CTF-ready tools**, and **satirical systems** with real-world impact.
+Creative Security Engineer exploring the edges of **Offensive Security**, **AI Automation**, and **Darknet OSINT**.  
+I prototype **autonomous agents**, **CTF-ready tools**, and purpose-driven systems with real-world impact.
 
-- 🧠 Red Teaming | AI Toolchains | OSINT | PrivEsc | Post-Exploitation
-- ⚙️ From bash to backend – if it saves time or breaks rules, I’ll build it
-- 🧪 Always testing, always iterating, always weird
+- 🛠️ Toolchain Engineering | AI Agents | PrivEsc | Lateral Movement | OSINT  
+- 🧰 Bash, Python, PowerShell, pure spite – whatever gets the job done  
+- 🧪 Iterate fast, break things intentionally, automate everything
 
 ---
 
-## 🚧 Selected Projects
+## 🧪 Selected Projects
 
-### 🐍 `Advanced Reverse Honeypot`
-> AI-enhanced deception lab with stealth recon, fake artifacts & autonomous reporting.  
-A toolkit to confuse attackers, collect telemetry, and test defenses.
-
-### 🤖 `WOERK`
-> Local-first LLM-powered job automation.  
-Reads your files, builds your profile, applies for jobs – in zero to two clicks.
-
-### 🐙 `Operation HydraPost`
-> Fully autonomous, ironic LinkedIn troll system.  
-Campaign logic, mock personas, satire-as-a-service.
-
-### 🧪 `LUZI`
-> A dirty-fast port scanner hunting exotic protocols and quick wins.  
+### 🧬 `LUZI`  
+> Dirty-fast port scanner for exotic protocols and neglected targets.  
 Focus: speed, stealth, simplicity.
 
----
+### 🕵️ `LexHound`  
+> Legal OSINT tool for scraping and analyzing court decisions.  
+Focus on structured extraction, filtering, and citation-aware linking.
 
-## 📜 Certs & Progress
-
-- ✅ **Google Cybersecurity Professional**
-- 🧠 **Cisco CEH (CTF pending)**
-- 🔍 **HTB Red Team Path (60 %+)**
-- 🎯 **Preparing for Synack Red Team**
+### 📚 `XReader`  
+> Modular LLM-powered PDF parser and evaluator.  
+Processes large corpora of legal, technical, or scientific texts – chunked, ranked, contextualized.
 
 ---
 
 ## 🤝 Let’s Connect
 
-- 🤖 Interested in: Red Team collabs, AI agent experiments, satirical toolchains
-- 📫 Contact: `riswanhassen@gmail.com`
-- 🛠️ Happy to trade tactics, tools, or terrible ideas
+- 🧠 Looking for: collabs on AI tooling, offensive security automation, or OSINT projects  
+- 📫 Contact: `riswanhassen@gmail.com`  
+- 🛠️ Happy to share tactics, tools – or unleash new ones together
 
 ---
 
-> ⚡ *I don’t just automate – I escalate. Then I build a bot to do it again.*
+> ⚡ *I don’t just automate – I escalate. Then I train a bot to do it with style.*
