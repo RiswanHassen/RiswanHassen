@@ -1,43 +1,41 @@
-# 👋 Hey, I'm Riswan Hassen
+# Riswan Hassen
 
-**Offensive Security Engineering • AI Automation • OSINT Tooling**  
-_building systems that hack, help, or hilariously misbehave._
+**Security Engineer · Compliance Automation · AI Systems**
 
----
-
-## 🧠 About Me
-
-Creative Security Engineer exploring the edges of **Offensive Security**, **AI Automation**, and **Darknet OSINT**.  
-I prototype **autonomous agents**, **CTF-ready tools**, and purpose-driven systems with real-world impact.
-
-- 🛠️ Toolchain Engineering | AI Agents | PrivEsc | Lateral Movement | OSINT  
-- 🧰 Bash, Python, PowerShell, pure spite – whatever gets the job done  
-- 🧪 Iterate fast, break things intentionally, automate everything
+20+ years in cybersecurity — from red teaming and lateral movement to building the systems that catch what others miss. Based in Germany, working internationally.
 
 ---
 
-## 🧪 Selected Projects
+## What I Build
 
-### 🧬 `LUZI`  
-> Dirty-fast port scanner for exotic protocols and neglected targets.  
-Focus: speed, stealth, simplicity.
+**RegMon** — Automated regulatory monitoring for German healthcare IT. Tracks G-BA, Gematik, and KBV publications, classifies severity, and generates compliance audit trails. Built for a sector where missing a regulatory change isn't an option.
 
-### 🕵️ `LexHound`  
-> Legal OSINT tool for scraping and analyzing court decisions.  
-Focus on structured extraction, filtering, and citation-aware linking.
+**JuraScraper** — PDF scraper for German legal texts from gesetze-im-internet.de. Parallel downloads, CLI filtering, module-level self-checks.
 
-### 📚 `XReader`  
-> Modular LLM-powered PDF parser and evaluator.  
-Processes large corpora of legal, technical, or scientific texts – chunked, ranked, contextualized.
+**WOERK** — AI-powered job application tooling. Structured generation, not template spam.
+
+**LUZI** — Dirty-fast port scanner for exotic protocols and neglected targets. Speed, stealth, simplicity.
 
 ---
 
-## 🤝 Let’s Connect
+## Current Focus
 
-- 🧠 Looking for: collabs on AI tooling, offensive security automation, or OSINT projects  
-- 📫 Contact: `riswanhassen@gmail.com`  
-- 🛠️ Happy to share tactics, tools – or unleash new ones together
+- **Healthcare IT Compliance** — building tooling that turns regulatory monitoring from a manual burden into an automated pipeline
+- **AI-Augmented Security Workflows** — local LLM orchestration (Ollama, multi-model consensus protocols) for review, analysis, and offensive tooling
+- **Offensive Security** — privilege escalation, lateral movement, OSINT — the craft that informs everything else
 
 ---
 
-> ⚡ *I don’t just automate – I escalate. Then I train a bot to do it with style.*
+## Beyond Code
+
+Published author — *Junx – Die Schatten Dresdens* (2010, ISBN 978-3839154137). Cyberpunk fiction set in real Dresden locations, part of a unified fictional cosmology spanning two decades of worldbuilding.
+
+Strategic essayist — *Clausewitz vs. Sun Tzu*: an analysis of the Bundeswehr's doctrinal blind spots, arguing that hybrid warfare demands Sun Tzu's thinking more than ever.
+
+---
+
+## Contact
+
+**riswanhassen@gmail.com** · [LinkedIn](https://linkedin.com/in/riswanhassen)
+
+I work on referral. If you have a problem that needs someone who understands both the attack surface and the regulatory landscape, let's talk.
